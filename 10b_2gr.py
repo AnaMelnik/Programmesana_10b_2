@@ -1,6 +1,6 @@
 1 	
 Kudrjavceva Veronika
-print(10-9**2) 	
+print(10-9**2+25) 	
 #Melnic Ana
 3 	
 Mihailovs Alekss
